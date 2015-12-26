@@ -1,0 +1,28 @@
+name: Thoughts on Watts
+favicon: null
+layout_spectrum: 0.502275750041008
+typography_spectrum: 0.2567992329131812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.46666250517591834
+  lightness: 0.3414775694254786
+  saturation: 0.9291143927257508
+  rhythmicContrast: 0.6795885865576565
+purpose: []
